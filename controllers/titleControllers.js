@@ -1,4 +1,4 @@
-var async = require("async");
+const async = require("async");
 const https = require("https");
 
 exports.getTitles = async (req, res) => {
