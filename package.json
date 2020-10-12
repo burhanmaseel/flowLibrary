@@ -2,7 +2,7 @@
   "name": "flowlibrary",
   "version": "1.0.0",
   "description": "CareAxiom task using Flow Library",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
   },
