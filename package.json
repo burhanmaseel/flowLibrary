@@ -1,0 +1,27 @@
+{
+  "name": "flowlibrary",
+  "version": "1.0.0",
+  "description": "CareAxiom task using Flow Library",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burhanmaseel/flowLibrary.git"
+  },
+  "author": "Burhan Maseel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burhanmaseel/flowLibrary/issues"
+  },
+  "homepage": "https://github.com/burhanmaseel/flowLibrary#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "async": "^3.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
